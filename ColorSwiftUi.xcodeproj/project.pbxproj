@@ -11,6 +11,10 @@
 		8B04BD0F267DF28300A91257 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B04BD0E267DF28300A91257 /* ContentView.swift */; };
 		8B04BD11267DF29000A91257 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B04BD10267DF29000A91257 /* Assets.xcassets */; };
 		8B04BD14267DF29000A91257 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B04BD13267DF29000A91257 /* Preview Assets.xcassets */; };
+		8B04BD1C267DF3C100A91257 /* SliderLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B04BD1B267DF3C100A91257 /* SliderLabel.swift */; };
+		8B04BD1E267DF3CF00A91257 /* SliderValueTF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B04BD1D267DF3CF00A91257 /* SliderValueTF.swift */; };
+		8B04BD20267DF3E000A91257 /* SliderRGB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B04BD1F267DF3E000A91257 /* SliderRGB.swift */; };
+		8B04BD22267DF3F700A91257 /* ClorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B04BD21267DF3F700A91257 /* ClorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +24,10 @@
 		8B04BD10267DF29000A91257 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8B04BD13267DF29000A91257 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8B04BD15267DF29000A91257 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B04BD1B267DF3C100A91257 /* SliderLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderLabel.swift; sourceTree = "<group>"; };
+		8B04BD1D267DF3CF00A91257 /* SliderValueTF.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderValueTF.swift; sourceTree = "<group>"; };
+		8B04BD1F267DF3E000A91257 /* SliderRGB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderRGB.swift; sourceTree = "<group>"; };
+		8B04BD21267DF3F700A91257 /* ClorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +62,10 @@
 			children = (
 				8B04BD0C267DF28300A91257 /* ColorSwiftUiApp.swift */,
 				8B04BD0E267DF28300A91257 /* ContentView.swift */,
+				8B04BD21267DF3F700A91257 /* ClorView.swift */,
+				8B04BD1F267DF3E000A91257 /* SliderRGB.swift */,
+				8B04BD1D267DF3CF00A91257 /* SliderValueTF.swift */,
+				8B04BD1B267DF3C100A91257 /* SliderLabel.swift */,
 				8B04BD10267DF29000A91257 /* Assets.xcassets */,
 				8B04BD15267DF29000A91257 /* Info.plist */,
 				8B04BD12267DF29000A91257 /* Preview Content */,
@@ -140,6 +152,10 @@
 			files = (
 				8B04BD0F267DF28300A91257 /* ContentView.swift in Sources */,
 				8B04BD0D267DF28300A91257 /* ColorSwiftUiApp.swift in Sources */,
+				8B04BD22267DF3F700A91257 /* ClorView.swift in Sources */,
+				8B04BD1C267DF3C100A91257 /* SliderLabel.swift in Sources */,
+				8B04BD1E267DF3CF00A91257 /* SliderValueTF.swift in Sources */,
+				8B04BD20267DF3E000A91257 /* SliderRGB.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
